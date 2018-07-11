@@ -1,6 +1,6 @@
 {
   "name": "@factorten/auth0-source-control-extension-tools",
-  "version": "2.7.15",
+  "version": "2.7.16",
   "description": "Supporting tools for the Source Control extensions",
   "main": "src/index.js",
   "scripts": {
